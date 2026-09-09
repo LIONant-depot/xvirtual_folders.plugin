@@ -7,7 +7,7 @@
   "PipelinePlugin/TypeName"                  ;string "Folder"    
   "PipelinePlugin/FileExtension"             ;wstring ""               
   "PipelinePlugin/TypeGUID/Value"            ;u64    #C4D90C5F0CC43021
-  "PipelinePlugin/Icon"                      ;string "\xEE\xA3\x95"        
+  "PipelinePlugin/IconPath"                      ;wstring "icon.png"
   "PipelinePlugin/Details/RunAfter[]"        ;s64    0                
   "PipelinePlugin/Details/CompilationScript" ;wstring ""
   "PipelinePlugin/Details/DebugCompiler"     ;wstring ""               
